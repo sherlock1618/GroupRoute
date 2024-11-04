@@ -55,5 +55,5 @@ module.exports = {
     HTTPGetAllGroups,
     HTTPCreateGroup,
     HTTPRemoveGroup,
-    HTTPUpdateGroup
+    HTTPUpdateGroup,
 };
